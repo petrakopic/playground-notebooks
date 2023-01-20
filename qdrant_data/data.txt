@@ -1,0 +1,5 @@
+Qdrant is a vector similarity search engine. 
+It provides a production-ready service.
+Qdrant is tailored to extended filtering support.
+It makes it useful for all sorts of neural network.
+
